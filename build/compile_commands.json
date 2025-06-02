@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/Users/vyacheslav/OpenGL_C++_test_scene/build",
+  "command": "/usr/bin/clang++  -I/Users/vyacheslav/.brew/opt/glfw/include -I/Users/vyacheslav/.brew/opt/assimp/include -I/Users/vyacheslav/OpenGL_C++_test_scene/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk/System/Library/Frameworks -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/OpenGL_test_scene.dir/test.cpp.o -c /Users/vyacheslav/OpenGL_C++_test_scene/test.cpp",
+  "file": "/Users/vyacheslav/OpenGL_C++_test_scene/test.cpp",
+  "output": "CMakeFiles/OpenGL_test_scene.dir/test.cpp.o"
+},
+{
+  "directory": "/Users/vyacheslav/OpenGL_C++_test_scene/build",
+  "command": "/usr/bin/clang  -I/Users/vyacheslav/.brew/opt/glfw/include -I/Users/vyacheslav/.brew/opt/assimp/include -I/Users/vyacheslav/OpenGL_C++_test_scene/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk/System/Library/Frameworks -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/OpenGL_test_scene.dir/src/glad.c.o -c /Users/vyacheslav/OpenGL_C++_test_scene/src/glad.c",
+  "file": "/Users/vyacheslav/OpenGL_C++_test_scene/src/glad.c",
+  "output": "CMakeFiles/OpenGL_test_scene.dir/src/glad.c.o"
+},
+{
+  "directory": "/Users/vyacheslav/OpenGL_C++_test_scene/build",
+  "command": "/usr/bin/clang++  -I/Users/vyacheslav/.brew/opt/glfw/include -I/Users/vyacheslav/.brew/opt/assimp/include -I/Users/vyacheslav/OpenGL_C++_test_scene/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk/System/Library/Frameworks -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/OpenGL_test_scene.dir/stb_image.cpp.o -c /Users/vyacheslav/OpenGL_C++_test_scene/stb_image.cpp",
+  "file": "/Users/vyacheslav/OpenGL_C++_test_scene/stb_image.cpp",
+  "output": "CMakeFiles/OpenGL_test_scene.dir/stb_image.cpp.o"
+},
+{
+  "directory": "/Users/vyacheslav/OpenGL_C++_test_scene/build",
+  "command": "/usr/bin/clang++  -I/Users/vyacheslav/.brew/opt/glfw/include -I/Users/vyacheslav/.brew/opt/assimp/include -I/Users/vyacheslav/OpenGL_C++_test_scene/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk/System/Library/Frameworks -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/OpenGL_test_scene.dir/include/imgui/imgui.cpp.o -c /Users/vyacheslav/OpenGL_C++_test_scene/include/imgui/imgui.cpp",
+  "file": "/Users/vyacheslav/OpenGL_C++_test_scene/include/imgui/imgui.cpp",
+  "output": "CMakeFiles/OpenGL_test_scene.dir/include/imgui/imgui.cpp.o"
+},
+{
+  "directory": "/Users/vyacheslav/OpenGL_C++_test_scene/build",
+  "command": "/usr/bin/clang++  -I/Users/vyacheslav/.brew/opt/glfw/include -I/Users/vyacheslav/.brew/opt/assimp/include -I/Users/vyacheslav/OpenGL_C++_test_scene/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk/System/Library/Frameworks -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/OpenGL_test_scene.dir/include/imgui/backends/imgui_impl_glfw.cpp.o -c /Users/vyacheslav/OpenGL_C++_test_scene/include/imgui/backends/imgui_impl_glfw.cpp",
+  "file": "/Users/vyacheslav/OpenGL_C++_test_scene/include/imgui/backends/imgui_impl_glfw.cpp",
+  "output": "CMakeFiles/OpenGL_test_scene.dir/include/imgui/backends/imgui_impl_glfw.cpp.o"
+},
+{
+  "directory": "/Users/vyacheslav/OpenGL_C++_test_scene/build",
+  "command": "/usr/bin/clang++  -I/Users/vyacheslav/.brew/opt/glfw/include -I/Users/vyacheslav/.brew/opt/assimp/include -I/Users/vyacheslav/OpenGL_C++_test_scene/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk/System/Library/Frameworks -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/OpenGL_test_scene.dir/include/imgui/backends/imgui_impl_opengl3.cpp.o -c /Users/vyacheslav/OpenGL_C++_test_scene/include/imgui/backends/imgui_impl_opengl3.cpp",
+  "file": "/Users/vyacheslav/OpenGL_C++_test_scene/include/imgui/backends/imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles/OpenGL_test_scene.dir/include/imgui/backends/imgui_impl_opengl3.cpp.o"
+},
+{
+  "directory": "/Users/vyacheslav/OpenGL_C++_test_scene/build",
+  "command": "/usr/bin/clang++  -I/Users/vyacheslav/.brew/opt/glfw/include -I/Users/vyacheslav/.brew/opt/assimp/include -I/Users/vyacheslav/OpenGL_C++_test_scene/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk/System/Library/Frameworks -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/OpenGL_test_scene.dir/include/imgui/imgui_draw.cpp.o -c /Users/vyacheslav/OpenGL_C++_test_scene/include/imgui/imgui_draw.cpp",
+  "file": "/Users/vyacheslav/OpenGL_C++_test_scene/include/imgui/imgui_draw.cpp",
+  "output": "CMakeFiles/OpenGL_test_scene.dir/include/imgui/imgui_draw.cpp.o"
+},
+{
+  "directory": "/Users/vyacheslav/OpenGL_C++_test_scene/build",
+  "command": "/usr/bin/clang++  -I/Users/vyacheslav/.brew/opt/glfw/include -I/Users/vyacheslav/.brew/opt/assimp/include -I/Users/vyacheslav/OpenGL_C++_test_scene/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk/System/Library/Frameworks -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/OpenGL_test_scene.dir/include/imgui/imgui_tables.cpp.o -c /Users/vyacheslav/OpenGL_C++_test_scene/include/imgui/imgui_tables.cpp",
+  "file": "/Users/vyacheslav/OpenGL_C++_test_scene/include/imgui/imgui_tables.cpp",
+  "output": "CMakeFiles/OpenGL_test_scene.dir/include/imgui/imgui_tables.cpp.o"
+},
+{
+  "directory": "/Users/vyacheslav/OpenGL_C++_test_scene/build",
+  "command": "/usr/bin/clang++  -I/Users/vyacheslav/.brew/opt/glfw/include -I/Users/vyacheslav/.brew/opt/assimp/include -I/Users/vyacheslav/OpenGL_C++_test_scene/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk/System/Library/Frameworks -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/OpenGL_test_scene.dir/include/imgui/imgui_widgets.cpp.o -c /Users/vyacheslav/OpenGL_C++_test_scene/include/imgui/imgui_widgets.cpp",
+  "file": "/Users/vyacheslav/OpenGL_C++_test_scene/include/imgui/imgui_widgets.cpp",
+  "output": "CMakeFiles/OpenGL_test_scene.dir/include/imgui/imgui_widgets.cpp.o"
+},
+{
+  "directory": "/Users/vyacheslav/OpenGL_C++_test_scene/build",
+  "command": "/usr/bin/clang  -I/Users/vyacheslav/.brew/opt/glfw/include -I/Users/vyacheslav/.brew/opt/assimp/include -I/Users/vyacheslav/OpenGL_C++_test_scene/include -iframework /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk/System/Library/Frameworks -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/OpenGL_test_scene.dir/src/tinyfiledialogs.c.o -c /Users/vyacheslav/OpenGL_C++_test_scene/src/tinyfiledialogs.c",
+  "file": "/Users/vyacheslav/OpenGL_C++_test_scene/src/tinyfiledialogs.c",
+  "output": "CMakeFiles/OpenGL_test_scene.dir/src/tinyfiledialogs.c.o"
+}
+]
